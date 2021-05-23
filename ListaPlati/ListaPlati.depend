@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621284094 source:d:\users\darius\c++ projects\listaplati\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<typeinfo>
+
